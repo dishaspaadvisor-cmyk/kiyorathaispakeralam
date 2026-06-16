@@ -53,23 +53,21 @@ export default function ContactPage() {
                   Visit Our Spa
                 </h4>
 
-                <p className="font-semibold text-white">
-                  KIYORA THAI SPA Chembur
-                </p>
-
-                <p className="mt-2 text-slate-300">
-                  Premium Wellness & Relaxation Center
-                </p>
-
                 <p className="mt-2 text-slate-400 leading-relaxed">
-                  Shop No. 10, 1st Floor, K Star Mall,
+                  Room No. KM/VIII/102-14, 1st Floor,
                   <br />
-                  VN Purav Marg, Diamond Garden,
-                  <br />
-                  Basant Garden, Chembur East,
-                  <br />
-                  Mumbai, Maharashtra 400071
+        
+                <p className="font-semibold text-white">
+                  Highway Square, Kainatty, Kalpetta North, District Wayanad, Kerala - 673122.
                 </p>
+
+                <p className="font-semibold text-white">
+
+
+                </p>
+
+                
+                
               </div>
 
               <div>
