@@ -127,7 +127,7 @@ export const faqs = [
         id: 6,
         question: "Is parking available?",
         answer:
-            "Yes, parking is available at K Star Mall for customers.",
+            "Yes, parking is available  for customers.",
     },
 ];
 
