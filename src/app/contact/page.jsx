@@ -79,7 +79,7 @@ export default function ContactPage() {
                   href="tel:+918433608211"
                   className="text-lg text-white transition hover:text-cyan-400"
                 >
-                   +91 9152893383
+                  +91 9152893383
                 </a>
               </div>
 
@@ -89,12 +89,12 @@ export default function ContactPage() {
                 </h4>
 
                 <a
-                  href="https://wa.me/918433608211"
+                  href="https://wa.me/919152893383"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-lg text-white transition hover:text-cyan-400"
                 >
-                  +91 8433608211
+                  +91 9152893383
                 </a>
               </div>
 
