@@ -54,20 +54,13 @@ export default function ContactPage() {
                 </h4>
 
                 <p className="mt-2 text-slate-400 leading-relaxed">
-                  Room No. KM/VIII/102-14, 1st Floor,
+                  Room No. KM/VIII/102-14, 1st Floor, 
+                </p>
+                  <p className="font-semibold text-white">
+                    Highway Square, Kainatty, Kalpetta North, District Wayanad, Kerala - 673122.
                   <br />
-        
-                <p className="font-semibold text-white">
-                  Highway Square, Kainatty, Kalpetta North, District Wayanad, Kerala - 673122.
-                </p>
+                  </p>
 
-                <p className="font-semibold text-white">
-
-
-                </p>
-
-                
-                
               </div>
 
               <div>
