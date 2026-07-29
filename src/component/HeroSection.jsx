@@ -7,22 +7,22 @@ import Link from "next/link";
 const slides = [
   {
     id: 1,
-    image: "/heroimage/heroimage.png",
-    title: "Best spa in keralam",
+    image: "/heroimage/11.png",
+    title: "Best spa in Wayanad",
     description:
       "Indulge in premium wellness treatments designed to relax your body, calm your mind, and rejuvenate your spirit.",
   },
   {
     id: 2,
-    image: "/heroimage/heroimage1.JPG",
+    image: "/heroimage/hero2.webp",
     title: "Expert Staff Available",
     description:
       "Experience soothing massages and therapies that help you escape daily stress and restore balance.",
   },
   {
     id: 3,
-    image: "/heroimage/heroimage2.JPG",
-    title: "No 1 spa in keralam",
+    image: "/heroimage/hero1.webp",
+    title: "No 1 spa in Wayanad",
     description:
       "Step into a peaceful sanctuary where luxury, comfort, and relaxation come together.",
   },
@@ -59,8 +59,8 @@ export default function HeroSection() {
             className="object-cover"
           />
 
-          {/* Overlay */}
-          <div className="absolute inset-0 bg-slate-950/70" />
+          
+          
         </div>
       ))}
 

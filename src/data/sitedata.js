@@ -135,63 +135,63 @@ export const services = [
     {
         id: 1,
         title: "Swedish Massage",
-        image: "/services/servicesimage1.JPG",
+        image: "/services/1.webp",
         description:
             "A gentle full-body massage designed to relax muscles and improve circulation.",
     },
     {
         id: 2,
         title: "Deep Tissue Massage",
-        image: "/services/servicesimage2.JPG",
+        image: "/services/2.webp",
         description:
             "Targets deeper muscle layers to relieve chronic pain and tension.",
     },
     {
         id: 3,
         title: "Female to Male Massage",
-        image: "/services/servicesimage3.JPG",
+        image: "/services/3.webp",
         description:
             "Professional therapy designed for ultimate comfort and stress relief.",
     },
     {
         id: 4,
         title: "Hot Oil Massage",
-        image: "/services/servicesimage4.JPG",
+        image: "/services/4.webp",
         description:
             "Warm oils and soothing techniques for deep relaxation.",
     },
     {
         id: 5,
         title: "Body Scrub",
-        image: "/services/servicesimage5.JPG",
+        image: "/services/5.webp",
         description:
             "Exfoliates dead skin cells and leaves your skin soft and glowing.",
     },
     {
         id: 6,
         title: "Couple Spa",
-        image: "/services/servicesimage6.JPG",
+        image: "/services/6.webp",
         description:
             "Enjoy a luxurious spa experience together in a private setting.",
     },
     {
         id: 7,
         title: "Foot Reflexology",
-        image: "/services/servicesimage7.JPG",
+        image: "/services/7.webp",
         description:
             "Pressure-point therapy that helps reduce stress and improve wellness.",
     },
     {
         id: 8,
         title: "Four Hand Massage",
-        image: "/services/servicesimage8.JPG",
+        image: "/services/8.webp",
         description:
             "Double the therapists, double the relaxation experience.",
     },
     {
         id: 9,
         title: "Full Body Spa",
-        image: "/services/servicesimage9.JPG",
+        image: "/services/9.webp",
         description:
             "A complete rejuvenating treatment for ultimate relaxation and wellness.",
     },
@@ -239,14 +239,14 @@ export const footerServices = [
 export const heroSlides = [
   {
     id: 1,
-    image: "/images/hero-1.jpg",
-    title: "Best spa in keralam",
+    image: "/images/hero1.webp",
+    title: "Best spa in Wayanad ",
     description:
       "Indulge in world-class wellness treatments designed for ultimate relaxation.",
   },
   {
     id: 2,
-    image: "/images/hero-2.jpg",
+    image: "/images/hero2.webp",
     title: "Expert Staff Available",
     description:
       "Escape the stress of everyday life with soothing therapies and massages.",
@@ -254,7 +254,7 @@ export const heroSlides = [
   {
     id: 3,
     image: "/images/hero-3.jpg",
-    title: "No 1 spa in keralam",
+    title: "No 1 spa in Wayanad",
     description:
       "Experience tranquility and rejuvenation in our premium spa environment.",
   },
